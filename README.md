@@ -7,7 +7,7 @@ copy: libNetCode.so from NetCode/Output project</br>
 and paste into this folder (UdpClient)</br>
 </br>
 Step 2.</br>
-copy: MessageInterface, NetCod projects</br>
+copy: MessageInterface, NetCode projects</br>
 and paste into folder</br>
 UdpClient/InternalLib</br>
 </br>
